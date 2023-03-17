@@ -27,7 +27,7 @@ body {
 }
 
 .logo-img {
-  width: 100px;
+  width: 150px;
 }
 .logo-name {
   color: red;
@@ -139,6 +139,9 @@ a:hover {
   gap: 30px;
   margin-right: 10px;
 }
+.shop-list:hover{
+  cursor: pointer;
+}
 
 .add-to-cart {
   width: 120px;
@@ -210,7 +213,7 @@ a:hover {
 .branch-img-container img {
   width: 100%;
   height: 100%;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .address {
 }
